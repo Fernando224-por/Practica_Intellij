@@ -26,7 +26,7 @@
                 </div>
                 <div class="mb-3" style="margin-right: 30%; margin-left: 30%;">
                     <label for="Emailrequest" class="form-label">Correo</label>
-                    <input type="email" class="form-control" id="Emailrequest" pattern="{,70}" required>
+                    <input type="email" class="form-control" id="Emailrequest" placeholder="example@gmail.com" pattern="{,70}" required>
                 </div>
                 <div class="mb-3" style="margin-right: 30%; margin-left: 30%;">
                     <label for="paswordRequest" class="form-label">Password</label>
